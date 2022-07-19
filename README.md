@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Mi nombre es Ivan!</h1>
-<h3 align="center">Soy un Full Stack developer</h3>
+![](./giphy.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arielchauca&label=Profile%20views&color=0e75b6&style=flat" alt="arielchauca" /> </p>
 
