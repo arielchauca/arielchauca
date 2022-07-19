@@ -7,7 +7,7 @@
 Me emociona seguir aprendiendo y crear soluciones en este mundo tecnológico tan amplio. 
 Me encanta trabajar en equipo y estar dispuesto a adaptarme a los cambios o necesidades. </p>
 
-<h3 align="left">Contactate con migo:</h3>
+<h3 align="left">¡Contáctame!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ivan-chauca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivan-chauca/" height="30" width="40" /></a>
 </p>
